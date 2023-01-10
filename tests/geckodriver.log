@@ -1,0 +1,41 @@
+1673259388136	geckodriver	INFO	Listening on 127.0.0.1:60845
+1673259391209	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60846" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\TANVEE~1\\AppData\\Local\\Temp\\rust_mozprofilecX3czH"
+1673259392170	Marionette	INFO	Marionette enabled
+1673259392179	Marionette	INFO	Listening on port 60875
+Read port: 60875
+WebDriver BiDi listening on ws://127.0.0.1:60846
+1673259392381	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TANVEE~1\\AppData\\Local\\Temp\\rust_mozprofilecX3czH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60846/devtools/browser/05c151c7-9b04-4dd1-b88d-4de09a010eda
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 302: NS_ERROR_FAILURE: Should pass a non-null uri
+1673259398394	Marionette	INFO	Stopped listening on port 60875
+1673259403478	geckodriver	INFO	Listening on 127.0.0.1:60912
+1673259406579	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60913" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\TANVEE~1\\AppData\\Local\\Temp\\rust_mozprofileTF2ztp"
+1673259407205	Marionette	INFO	Marionette enabled
+1673259407211	Marionette	INFO	Listening on port 60922
+Read port: 60922
+WebDriver BiDi listening on ws://127.0.0.1:60913
+1673259407401	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TANVEE~1\\AppData\\Local\\Temp\\rust_mozprofileTF2ztp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60913/devtools/browser/934a3f07-2a36-4c7b-ad41-8be7096794bb
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 302: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+1673259418823	Marionette	INFO	Stopped listening on port 60922
+1673259423584	geckodriver	INFO	Listening on 127.0.0.1:60978
+1673259426677	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60979" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\TANVEE~1\\AppData\\Local\\Temp\\rust_mozprofileYSHZV0"
+1673259427356	Marionette	INFO	Marionette enabled
+1673259427363	Marionette	INFO	Listening on port 60994
+Read port: 60994
+WebDriver BiDi listening on ws://127.0.0.1:60979
+1673259427659	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TANVEE~1\\AppData\\Local\\Temp\\rust_mozprofileYSHZV0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60979/devtools/browser/52624c30-3a60-4d5c-a8cc-7f71ef8ff446
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 302: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+1673259439782	Marionette	INFO	Stopped listening on port 60994
