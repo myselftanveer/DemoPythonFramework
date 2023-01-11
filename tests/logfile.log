@@ -135,3 +135,35 @@ Success! Thank you! Your order will be delivered in next few weeks :-).
 2023-01-09 15:46:52,052 :INFO : test_end2end :Blackberry
 2023-01-09 15:46:58,811 :INFO : test_end2end :Alert Message is×
 Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-01-11 16:50:15,324 :INFO : test_formSubmission :First Name isxyz
+2023-01-11 16:50:19,947 :INFO : test_end2end :Get All Product List
+2023-01-11 16:50:19,990 :INFO : test_end2end :iphone X
+2023-01-11 16:50:20,032 :INFO : test_end2end :Samsung Note 8
+2023-01-11 16:50:20,073 :INFO : test_end2end :Nokia Edge
+2023-01-11 16:50:20,115 :INFO : test_end2end :Blackberry
+2023-01-11 16:50:26,013 :INFO : test_end2end :Alert Message is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-01-11 16:58:11,807 :INFO : test_formSubmission :First Name isxyz
+2023-01-11 16:58:17,556 :INFO : test_end2end :Get All Product List
+2023-01-11 16:58:17,583 :INFO : test_end2end :iphone X
+2023-01-11 16:58:17,602 :INFO : test_end2end :Samsung Note 8
+2023-01-11 16:58:17,624 :INFO : test_end2end :Nokia Edge
+2023-01-11 16:58:17,645 :INFO : test_end2end :Blackberry
+2023-01-11 16:58:23,460 :INFO : test_end2end :Alert Message is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-01-11 17:00:35,851 :INFO : test_formSubmission :First Name isxyz
+2023-01-11 17:00:51,747 :INFO : test_end2end :Get All Product List
+2023-01-11 17:00:51,815 :INFO : test_end2end :iphone X
+2023-01-11 17:00:51,832 :INFO : test_end2end :Samsung Note 8
+2023-01-11 17:00:51,848 :INFO : test_end2end :Nokia Edge
+2023-01-11 17:00:51,860 :INFO : test_end2end :Blackberry
+2023-01-11 17:00:58,629 :INFO : test_end2end :Alert Message is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-01-11 17:06:51,973 :INFO : test_formSubmission :First Name isxyz
+2023-01-11 17:06:55,836 :INFO : test_end2end :Get All Product List
+2023-01-11 17:06:55,865 :INFO : test_end2end :iphone X
+2023-01-11 17:06:55,898 :INFO : test_end2end :Samsung Note 8
+2023-01-11 17:06:55,925 :INFO : test_end2end :Nokia Edge
+2023-01-11 17:06:55,951 :INFO : test_end2end :Blackberry
+2023-01-11 17:07:01,999 :INFO : test_end2end :Alert Message is×
+Success! Thank you! Your order will be delivered in next few weeks :-).

@@ -1,6 +1,6 @@
 import pytest
 from selenium import webdriver
-from selenium.webdriver.chrome.service import Service as ChromeService
+from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.firefox.service import Service as FirefoxService
 from webdriver_manager.chrome import ChromeDriverManager
 from webdriver_manager.firefox import GeckoDriverManager
@@ -19,9 +19,9 @@ def setupDriver(request):
     browser_name = request.config.getoption("browser_name")
     if browser_name == "chrome":
         # driver = webdriver.Chrome(ChromeDriverManager().install())
-        driver = webdriver.Chrome(service=ChromeService(ChromeDriverManager().install()))
-    # service_obj = Service("C:/Users/Tanveer Shaikh/Downloads/chromedriver_win32/chromedriver.exe")
-    # driver = webdriver.Chrome(service=service_obj)
+        # driver = webdriver.Chrome(service=ChromeService(ChromeDriverManager().install()))
+        service_obj = Service("C:/Users/Tanveer Shaikh/Downloads/chromedriver_win32/chromedriver.exe")
+        driver = webdriver.Chrome(service=service_obj)
     # driver = webdriver.Chrome(executable_path="C:\\chromedriver.exe")
     elif browser_name == "firefox":
         driver = webdriver.Firefox(service=FirefoxService(GeckoDriverManager().install()))
