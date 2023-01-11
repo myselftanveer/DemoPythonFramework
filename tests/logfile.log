@@ -167,3 +167,19 @@ Success! Thank you! Your order will be delivered in next few weeks :-).
 2023-01-11 17:06:55,951 :INFO : test_end2end :Blackberry
 2023-01-11 17:07:01,999 :INFO : test_end2end :Alert Message is×
 Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-01-11 17:24:36,243 :INFO : test_formSubmission :First Name isxyz
+2023-01-11 17:24:51,074 :INFO : test_end2end :Get All Product List
+2023-01-11 17:24:51,108 :INFO : test_end2end :iphone X
+2023-01-11 17:24:51,118 :INFO : test_end2end :Samsung Note 8
+2023-01-11 17:24:51,124 :INFO : test_end2end :Nokia Edge
+2023-01-11 17:24:51,131 :INFO : test_end2end :Blackberry
+2023-01-11 17:24:57,939 :INFO : test_end2end :Alert Message is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-01-11 17:27:23,042 :INFO : test_formSubmission :First Name isxyz
+2023-01-11 17:27:36,788 :INFO : test_end2end :Get All Product List
+2023-01-11 17:27:36,903 :INFO : test_end2end :iphone X
+2023-01-11 17:27:36,926 :INFO : test_end2end :Samsung Note 8
+2023-01-11 17:27:36,950 :INFO : test_end2end :Nokia Edge
+2023-01-11 17:27:36,971 :INFO : test_end2end :Blackberry
+2023-01-11 17:27:45,711 :INFO : test_end2end :Alert Message is×
+Success! Thank you! Your order will be delivered in next few weeks :-).

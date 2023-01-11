@@ -100,3 +100,95 @@ interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mj
 webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
 1673436683889	Marionette	INFO	Stopped listening on port 56559
+1673438068457	geckodriver	INFO	Listening on 127.0.0.1:59009
+1673438071484	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59010" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\TANVEE~1\\AppData\\Local\\Temp\\rust_mozprofile96YB7f"
+1673438072373	Marionette	INFO	Marionette enabled
+1673438072381	Marionette	INFO	Listening on port 59036
+Read port: 59036
+WebDriver BiDi listening on ws://127.0.0.1:59010
+1673438072798	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TANVEE~1\\AppData\\Local\\Temp\\rust_mozprofile96YB7f\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59010/devtools/browser/ee9d277c-7d7c-4d25-b852-41e55734d701
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 302: NS_ERROR_FAILURE: Should pass a non-null uri
+1673438077108	Marionette	INFO	Stopped listening on port 59036
+1673438082289	geckodriver	INFO	Listening on 127.0.0.1:59081
+1673438085365	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59082" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\TANVEE~1\\AppData\\Local\\Temp\\rust_mozprofileBzekVJ"
+1673438086222	Marionette	INFO	Marionette enabled
+1673438086234	Marionette	INFO	Listening on port 59097
+Read port: 59097
+WebDriver BiDi listening on ws://127.0.0.1:59082
+1673438086692	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TANVEE~1\\AppData\\Local\\Temp\\rust_mozprofileBzekVJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59082/devtools/browser/bc64a0e6-1c3d-470b-ab46-bea7696e6865
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 302: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+1673438097947	Marionette	INFO	Stopped listening on port 59097
+1673438102620	geckodriver	INFO	Listening on 127.0.0.1:59172
+1673438105698	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59173" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\TANVEE~1\\AppData\\Local\\Temp\\rust_mozprofile4Lujli"
+1673438106673	Marionette	INFO	Marionette enabled
+1673438106685	Marionette	INFO	Listening on port 59185
+Read port: 59185
+WebDriver BiDi listening on ws://127.0.0.1:59173
+1673438106954	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TANVEE~1\\AppData\\Local\\Temp\\rust_mozprofile4Lujli\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59173/devtools/browser/8f3ca8ce-c89c-43e3-aa5e-6e48f08403bc
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 302: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+1673438117689	Marionette	INFO	Stopped listening on port 59185
+1673438235404	geckodriver	INFO	Listening on 127.0.0.1:59421
+1673438238490	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59422" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\TANVEE~1\\AppData\\Local\\Temp\\rust_mozprofileg2clAp"
+1673438239329	Marionette	INFO	Marionette enabled
+1673438239341	Marionette	INFO	Listening on port 59433
+Read port: 59433
+WebDriver BiDi listening on ws://127.0.0.1:59422
+1673438239682	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TANVEE~1\\AppData\\Local\\Temp\\rust_mozprofileg2clAp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59422/devtools/browser/85bb931f-e268-4ce2-af0c-8e44451ce6db
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 302: NS_ERROR_FAILURE: Should pass a non-null uri
+1673438243921	Marionette	INFO	Stopped listening on port 59433
+1673438249034	geckodriver	INFO	Listening on 127.0.0.1:59483
+1673438252117	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59484" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\TANVEE~1\\AppData\\Local\\Temp\\rust_mozprofileoprceY"
+1673438252688	Marionette	INFO	Marionette enabled
+1673438252693	Marionette	INFO	Listening on port 59499
+Read port: 59499
+WebDriver BiDi listening on ws://127.0.0.1:59484
+1673438252970	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TANVEE~1\\AppData\\Local\\Temp\\rust_mozprofileoprceY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59484/devtools/browser/be4c92cb-897b-4764-acac-7927360efbe1
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 302: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1673438264088	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1673438264848	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+1673438265719	Marionette	INFO	Stopped listening on port 59499
+1673438271508	geckodriver	INFO	Listening on 127.0.0.1:59555
+1673438274578	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59556" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\TANVEE~1\\AppData\\Local\\Temp\\rust_mozprofilewEcFlJ"
+1673438275725	Marionette	INFO	Marionette enabled
+1673438275738	Marionette	INFO	Listening on port 59574
+Read port: 59574
+WebDriver BiDi listening on ws://127.0.0.1:59556
+1673438276263	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TANVEE~1\\AppData\\Local\\Temp\\rust_mozprofilewEcFlJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59556/devtools/browser/1f84108c-1e9a-481d-b931-b6275239a013
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 302: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+1673438287000	Marionette	INFO	Stopped listening on port 59574
